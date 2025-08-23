@@ -1,4 +1,4 @@
-# payer stored procedure
+# Modernizing Payer Workloads with Databricks SQL Stored Procedures
 
 ## Overview
 
