@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates how to build and manage **Databricks SQL Stored Procedures** to power operational and analytical use cases for payer organizations (such as health insurance or claims processing) on the Databricks Lakehouse platform.
+This project demonstrates how to build and manage **[Databricks SQL Stored Procedures]** (https://www.databricks.com/blog/introducing-sql-stored-procedures-databricks) to power operational and analytical use cases for payer organizations (such as health insurance or claims processing) on the Databricks Lakehouse platform.
 
 With the recent introduction of SQL stored procedures in Databricks (Public Preview), teams can modularize, reuse, and govern their complex SQL logic natively in the Lakehouse. This streamlines the migration of legacy enterprise data warehouse workloads, simplifies ETL, and enables easily repeatable data management patterns.
 
