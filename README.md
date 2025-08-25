@@ -60,6 +60,8 @@ With the recent introduction of SQL stored procedures in Databricks (Public Prev
 - [Official Databricks Blog: Introducing SQL Stored Procedures in Databricks](https://www.databricks.com/blog/introducing-sql-stored-procedures-databricks)
 - [Databricks SQL Documentation](https://docs.databricks.com/en/sql/language-manual/sql-ref-syntax-ddl-create-procedure.html)
 - [Public Preview Announcement](https://www.databricks.com/blog/introducing-sql-stored-procedures-databricks)
+- [Elevating the Lakehouse: Introducing Databricks SQL Stored Procedures](https://medium.com/@vikram.malhotra/elevating-the-lakehouse-introducing-databricks-sql-stored-procedures-c18618539e32)
+- [Modernizing Healthcare Analytics: Migrating Enterprise Data Warehouses to Databricks](https://medium.com/@vikram.malhotra/modernizing-healthcare-analytics-migrating-enterprise-data-warehouses-to-databricks-4713156bd283)
 
 ## License
 
