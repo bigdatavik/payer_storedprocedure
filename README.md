@@ -66,5 +66,3 @@ With the recent introduction of SQL stored procedures in Databricks (Public Prev
 MIT
 
 ***
-
-You can tailor this further based on your organization’s patterns or specific stored procedure examples! This structure will make it easy for others to understand the motivation, quickly try things out, and extend your work.
